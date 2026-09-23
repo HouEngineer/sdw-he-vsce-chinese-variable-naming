@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.6] - 2026-09-23
+
+- 变更：插件 ID 由 `chinese-variable-naming` 更名为 `sdw-he-vsce-chinese-variable-naming`，与仓库名保持一致；repository 地址同步更新。配置项 key（`chinese-variable-naming.*`）保持不变，已配置的百度翻译 appid/secret 无需迁移。
+
 ## [0.0.5] - 2026-09-23
 
 - 新增：推送 main 分支后通过 GitHub Actions 自动发布到 VS Code 插件市场与 Open VSX。

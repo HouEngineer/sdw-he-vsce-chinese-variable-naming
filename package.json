@@ -1,8 +1,8 @@
 {
-  "name": "chinese-variable-naming",
+  "name": "sdw-he-vsce-chinese-variable-naming",
   "displayName": "中文变量命名",
   "description": "根据选中的中文进行变量命名",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "houengineer",
   "engines": {
     "vscode": "^1.88.0"
@@ -24,7 +24,7 @@
   "main": "./out/extension.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HouEngineer/vsce-chinese-variable-naming.git"
+    "url": "https://github.com/HouEngineer/sdw-he-vsce-chinese-variable-naming.git"
   },
   "icon": "images/icon.png",
   "contributes": {
