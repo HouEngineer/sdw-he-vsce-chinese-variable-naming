@@ -1,6 +1,6 @@
 {
   "name": "sdw-he-vsce-chinese-variable-naming",
-  "displayName": "中文变量命名",
+  "displayName": "SDW-HE 中文变量命名",
   "description": "根据选中的中文进行变量命名",
   "version": "0.0.6",
   "publisher": "houengineer",
