@@ -2,7 +2,7 @@
   "name": "chinese-variable-naming",
   "displayName": "中文变量命名",
   "description": "根据选中的中文进行变量命名",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "houengineer",
   "engines": {
     "vscode": "^1.88.0"
